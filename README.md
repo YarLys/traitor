@@ -1,5 +1,9 @@
 # Traitor
+<<<<<<< HEAD
 #first change, branch3
+=======
+#first change, branch2
+>>>>>>> branch2
 #second change
 #third change
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
